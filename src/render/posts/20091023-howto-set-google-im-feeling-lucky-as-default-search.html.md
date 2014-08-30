@@ -4,12 +4,13 @@ link: http://martinhansen.no/2009/10/23/howto-set-google-im-feeling-lucky-as-def
 author: admin
 description: 
 post_id: 163
-created: 2009/10/23 18:43:01
+mtime: 2009/10/23 18:43:01
 created_gmt: 2009/10/23 16:43:01
 comment_status: open
 post_name: howto-set-google-im-feeling-lucky-as-default-search
 status: publish
 post_type: post
+layout: 'default'
 ---
 
 # HowTo: Set google "I'm Feeling Lucky" as default search

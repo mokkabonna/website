@@ -4,12 +4,13 @@ link: http://martinhansen.no/2011/04/04/how-to-return-clean-json-from-ef-object-
 author: admin
 description: 
 post_id: 232
-created: 2011/04/04 18:25:16
+mtime: 2011/04/04 18:25:16
 created_gmt: 2011/04/04 16:25:16
 comment_status: open
 post_name: how-to-return-clean-json-from-ef-object-with-data-attributes
 status: publish
 post_type: post
+layout: 'default'
 ---
 
 # How to return clean JSON from EF object with data attributes

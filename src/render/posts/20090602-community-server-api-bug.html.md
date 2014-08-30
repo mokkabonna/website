@@ -4,12 +4,13 @@ link: http://martinhansen.no/2009/06/02/community-server-api-bug/
 author: admin
 description: 
 post_id: 128
-created: 2009/06/02 18:57:31
+mtime: 2009/06/02 18:57:31
 created_gmt: 2009/06/02 16:57:31
 comment_status: open
 post_name: community-server-api-bug
 status: publish
 post_type: post
+layout: 'default'
 ---
 
 # Community server REST API cache bug

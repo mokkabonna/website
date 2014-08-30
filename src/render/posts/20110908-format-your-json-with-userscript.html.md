@@ -4,12 +4,13 @@ link: http://martinhansen.no/2011/09/08/format-your-json-with-userscript/
 author: admin
 description: 
 post_id: 254
-created: 2011/09/08 20:56:02
+mtime: 2011/09/08 20:56:02
 created_gmt: 2011/09/08 18:56:02
 comment_status: open
 post_name: format-your-json-with-userscript
 status: publish
 post_type: post
+layout: 'default'
 ---
 
 # Format your json with userscript

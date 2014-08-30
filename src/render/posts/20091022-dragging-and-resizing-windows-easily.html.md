@@ -4,12 +4,13 @@ link: http://martinhansen.no/2009/10/22/dragging-and-resizing-windows-easily/
 author: admin
 description: 
 post_id: 171
-created: 2009/10/22 00:41:22
+mtime: 2009/10/22 00:41:22
 created_gmt: 2009/10/21 22:41:22
 comment_status: open
 post_name: dragging-and-resizing-windows-easily
 status: publish
 post_type: post
+layout: 'default'
 ---
 
 # Dragging and resizing windows easily

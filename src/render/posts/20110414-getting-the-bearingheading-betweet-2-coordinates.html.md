@@ -4,12 +4,13 @@ link: http://martinhansen.no/2011/04/14/getting-the-bearingheading-betweet-2-coo
 author: admin
 description: 
 post_id: 242
-created: 2011/04/14 12:33:07
+mtime: 2011/04/14 12:33:07
 created_gmt: 2011/04/14 10:33:07
 comment_status: open
 post_name: getting-the-bearingheading-betweet-2-coordinates
 status: publish
 post_type: post
+layout: 'default'
 ---
 
 # Getting the bearing/heading betweet 2 coordinates

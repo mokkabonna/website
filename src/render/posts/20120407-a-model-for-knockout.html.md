@@ -4,12 +4,13 @@ link: http://martinhansen.no/2012/04/07/a-model-for-knockout/
 author: admin
 description: 
 post_id: 329
-created: 2012/04/07 18:39:05
+mtime: 2012/04/07 18:39:05
 created_gmt: 2012/04/07 16:39:05
 comment_status: open
 post_name: a-model-for-knockout
 status: publish
 post_type: post
+layout: 'default'
 ---
 
 # A model for Knockout

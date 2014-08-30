@@ -4,12 +4,13 @@ link: http://martinhansen.no/2009/06/12/will-opera-reinvent-the-web/
 author: admin
 description: 
 post_id: 148
-created: 2009/06/12 14:47:33
+mtime: 2009/06/12 14:47:33
 created_gmt: 2009/06/12 12:47:33
 comment_status: open
 post_name: will-opera-reinvent-the-web
 status: publish
 post_type: post
+layout: 'default'
 ---
 
 # Will Opera reinvent the web?

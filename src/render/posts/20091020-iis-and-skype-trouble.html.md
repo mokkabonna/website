@@ -4,12 +4,13 @@ link: http://martinhansen.no/2009/10/20/iis-and-skype-trouble/
 author: admin
 description: 
 post_id: 167
-created: 2009/10/20 14:07:30
+mtime: 2009/10/20 14:07:30
 created_gmt: 2009/10/20 12:07:30
 comment_status: open
 post_name: iis-and-skype-trouble
 status: publish
 post_type: post
+layout: 'default'
 ---
 
 # IIS and skype = trouble
