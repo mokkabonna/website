@@ -5,11 +5,10 @@ layout: page
 tags: ['intro','page']
 pageOrder: 2
 author: admin
-description: 
 post_id: 340
 
 
-comment_status: open
+
 post_name: jquery-scrollfollow
 status: publish
 ---

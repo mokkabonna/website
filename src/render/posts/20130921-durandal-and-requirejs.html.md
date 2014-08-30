@@ -2,11 +2,10 @@
 title: Durandal and requirejs
 
 author: admin
-description: 
 post_id: 354
 mtime: 2013/09/21 16:01:39
 
-comment_status: open
+
 post_name: durandal-and-requirejs
 status: publish
 post_type: post

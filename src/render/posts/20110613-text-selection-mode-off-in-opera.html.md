@@ -2,11 +2,10 @@
 title: Text selection mode off in opera
 
 author: admin
-description: 
 post_id: 249
 mtime: 2011/06/13 16:01:55
 
-comment_status: open
+
 post_name: text-selection-mode-off-in-opera
 status: publish
 post_type: post

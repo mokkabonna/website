@@ -2,11 +2,10 @@
 title: Community server REST API cache bug
 
 author: admin
-description: 
 post_id: 128
 mtime: 2009/06/02 18:57:31
 
-comment_status: open
+
 post_name: community-server-api-bug
 status: publish
 post_type: post

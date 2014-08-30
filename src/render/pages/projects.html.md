@@ -4,11 +4,10 @@ layout: page
 pageOrder: 2
 
 author: admin
-description: 
 post_id: 191
 
 
-comment_status: open
+
 post_name: projects
 status: publish
 post_type: page

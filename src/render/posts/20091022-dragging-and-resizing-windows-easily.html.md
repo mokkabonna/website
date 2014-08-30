@@ -2,11 +2,10 @@
 title: Dragging and resizing windows easily
 
 author: admin
-description: 
 post_id: 171
 mtime: 2009/10/22 00:41:22
 
-comment_status: open
+
 post_name: dragging-and-resizing-windows-easily
 status: publish
 post_type: post
