@@ -162,6 +162,6 @@ $('#flatlists li').toEnumerable().ByHierarchy(function(d) {
 });
 ```
 
-Result: ![](../images/listexample.png)
+Result: ![](/images//listexample.png)
 
 The forked project is hosted at codeplex (since the original is a codeplex project) You can find it here <http://linqjs.codeplex.com/SourceControl/network/forks/mokkabonna/ByHierarchy> The code is inspired by [this](http://stackoverflow.com/a/3758955/94394) similar LINQ C# method in an answer by Thomas Levesque over at stackoverflow.

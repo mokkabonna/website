@@ -10,7 +10,7 @@ layout: 'default'
 
 # Format your json with userscript
 
-I have created a very small userscript for opera (might work ok with other browsers) that formats /indents/ beautifies the JSON data in a document if it's only JSON there. For opera to open the JSON by itself and this to work (the default is to present it as a download), you will have to enable that in opera. Go to preferences -> advanced -> downloads -> Add Mimetype: application/json Select open with opera That will result in your JSON looking like this in the browser: ![](../images/large.png) 
+I have created a very small userscript for opera (might work ok with other browsers) that formats /indents/ beautifies the JSON data in a document if it's only JSON there. For opera to open the JSON by itself and this to work (the default is to present it as a download), you will have to enable that in opera. Go to preferences -> advanced -> downloads -> Add Mimetype: application/json Select open with opera That will result in your JSON looking like this in the browser: ![](/images//large.png) 
 ```
  //== UserScript == 
  // @name JSON formatter 

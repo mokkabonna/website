@@ -36,7 +36,7 @@ Thanks to [rjsteward](http://stackoverflow.com/users/76639/rjsteward) with his [
  }); 
 ```
  Resulting in something like this: 
- ![](../images/streetview-heading.png)
+ ![](/images//streetview-heading.png)
 
 ## Comments
 
