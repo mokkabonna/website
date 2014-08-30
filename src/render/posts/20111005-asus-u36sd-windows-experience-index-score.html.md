@@ -2,12 +2,9 @@
 title: ASUS U36SD windows experience index score
 
 author: admin
-post_id: 271
 mtime: 2011/10/05 16:31:39
 
 slug: asus-u36sd-windows-experience-index-score
-status: publish
-post_type: post
 layout: 'default'
 ---
 

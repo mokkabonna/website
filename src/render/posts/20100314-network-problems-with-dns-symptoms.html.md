@@ -2,12 +2,9 @@
 title: Network problems with DNS symptoms
 
 author: admin
-post_id: 185
 mtime: 2010/03/14 21:16:09
 
 slug: network-problems-with-dns-symptoms
-status: publish
-post_type: post
 layout: 'default'
 ---
 

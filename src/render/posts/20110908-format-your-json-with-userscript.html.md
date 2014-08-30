@@ -2,12 +2,9 @@
 title: Format your json with userscript
 
 author: admin
-post_id: 254
 mtime: 2011/09/08 20:56:02
 
 slug: format-your-json-with-userscript
-status: publish
-post_type: post
 layout: 'default'
 ---
 

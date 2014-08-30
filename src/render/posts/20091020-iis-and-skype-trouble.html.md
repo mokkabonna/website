@@ -2,12 +2,9 @@
 title: IIS and skype = trouble
 
 author: admin
-post_id: 167
 mtime: 2009/10/20 14:07:30
 
 slug: iis-and-skype-trouble
-status: publish
-post_type: post
 layout: 'default'
 ---
 

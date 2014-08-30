@@ -2,12 +2,9 @@
 title: Harvest time tracking widget for Opera
 
 author: admin
-post_id: 188
 mtime: 2010/03/14 20:52:33
 
 slug: harvest-widget-for-opera
-status: publish
-post_type: post
 layout: 'default'
 ---
 

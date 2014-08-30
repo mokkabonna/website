@@ -2,12 +2,9 @@
 title: Getting the bearing/heading betweet 2 coordinates
 
 author: admin
-post_id: 242
 mtime: 2011/04/14 12:33:07
 
 slug: getting-the-bearingheading-betweet-2-coordinates
-status: publish
-post_type: post
 layout: 'default'
 ---
 

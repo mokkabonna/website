@@ -2,12 +2,9 @@
 title: Responsive webservice caching using threads
 
 author: admin
-post_id: 65
 mtime: 2009/04/23 14:15:30
 
 slug: webservice-caching
-status: publish
-post_type: post
 layout: 'default'
 ---
 

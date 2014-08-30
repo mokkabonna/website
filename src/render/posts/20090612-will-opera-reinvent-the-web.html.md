@@ -2,12 +2,9 @@
 title: Will Opera reinvent the web?
 
 author: admin
-post_id: 148
 mtime: 2009/06/12 14:47:33
 
 slug: will-opera-reinvent-the-web
-status: publish
-post_type: post
 layout: 'default'
 ---
 

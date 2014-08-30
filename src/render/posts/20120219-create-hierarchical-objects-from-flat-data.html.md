@@ -2,12 +2,9 @@
 title: Create hierarchical objects from flat data
 
 author: admin
-post_id: 279
 mtime: 2012/02/19 22:17:23
 
 slug: create-hierarchical-objects-from-flat-data
-status: publish
-post_type: post
 layout: 'default'
 ---
 

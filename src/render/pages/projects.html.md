@@ -4,12 +4,9 @@ layout: page
 pageOrder: 2
 
 author: admin
-post_id: 191
 
 
 slug: projects
-status: publish
-post_type: page
 ---
 
 # Projects

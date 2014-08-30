@@ -2,12 +2,9 @@
 title: Community server REST API cache bug
 
 author: admin
-post_id: 128
 mtime: 2009/06/02 18:57:31
 
 slug: community-server-api-bug
-status: publish
-post_type: post
 layout: 'default'
 ---
 

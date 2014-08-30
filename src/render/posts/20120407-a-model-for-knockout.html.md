@@ -2,12 +2,9 @@
 title: A model for Knockout
 
 author: admin
-post_id: 329
 mtime: 2012/04/07 18:39:05
 
 slug: a-model-for-knockout
-status: publish
-post_type: post
 layout: 'default'
 ---
 

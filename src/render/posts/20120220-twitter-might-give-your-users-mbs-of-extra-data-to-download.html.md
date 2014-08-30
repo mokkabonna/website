@@ -2,12 +2,9 @@
 title: Twitter might give your users MB's of extra data to download
 
 author: admin
-post_id: 315
 mtime: 2012/02/20 14:31:17
 
 slug: twitter-might-give-your-users-mbs-of-extra-data-to-download
-status: publish
-post_type: post
 layout: 'default'
 ---
 

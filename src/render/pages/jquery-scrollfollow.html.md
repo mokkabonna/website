@@ -5,11 +5,9 @@ layout: page
 tags: ['intro','page']
 pageOrder: 2
 author: admin
-post_id: 340
 
 
 slug: jquery-scrollfollow
-status: publish
 ---
 
 # jQuery scrollfollow

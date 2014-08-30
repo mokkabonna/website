@@ -4,12 +4,9 @@ layout: page
 pageOrder: 2
 
 author: admin
-post_id: 14
 
 
 slug: tools
-status: publish
-post_type: page
 ---
 
 # Tools

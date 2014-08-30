@@ -2,12 +2,9 @@
 title: HowTo: Set google "I'm Feeling Lucky" as default search
 
 author: admin
-post_id: 163
 mtime: 2009/10/23 18:43:01
 
 slug: howto-set-google-im-feeling-lucky-as-default-search
-status: publish
-post_type: post
 layout: 'default'
 ---
 
