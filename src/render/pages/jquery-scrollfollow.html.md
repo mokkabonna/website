@@ -1,14 +1,14 @@
 ---
 title: jQuery scrollfollow
-link: http://martinhansen.no/jquery-scrollfollow/
+
 layout: page
 tags: ['intro','page']
 pageOrder: 2
 author: admin
 description: 
 post_id: 340
-created: 2012/04/15 22:26:00
-created_gmt: 2012/04/15 20:26:00
+
+
 comment_status: open
 post_name: jquery-scrollfollow
 status: publish

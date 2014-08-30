@@ -1,11 +1,11 @@
 ---
 title: Network problems with DNS symptoms
-link: http://martinhansen.no/2010/03/14/network-problems-with-dns-symptoms/
+
 author: admin
 description: 
 post_id: 185
 mtime: 2010/03/14 21:16:09
-created_gmt: 2010/03/14 19:16:09
+
 comment_status: open
 post_name: network-problems-with-dns-symptoms
 status: publish

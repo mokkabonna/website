@@ -1,11 +1,11 @@
 ---
 title: Create hierarchical objects from flat data
-link: http://martinhansen.no/2012/02/19/create-hierarchical-objects-from-flat-data/
+
 author: admin
 description: 
 post_id: 279
 mtime: 2012/02/19 22:17:23
-created_gmt: 2012/02/19 20:17:23
+
 comment_status: open
 post_name: create-hierarchical-objects-from-flat-data
 status: publish

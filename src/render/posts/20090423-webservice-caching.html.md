@@ -1,11 +1,11 @@
 ---
 title: Responsive webservice caching using threads
-link: http://martinhansen.no/2009/04/23/webservice-caching/
+
 author: admin
 description: 
 post_id: 65
 mtime: 2009/04/23 14:15:30
-created_gmt: 2009/04/23 12:15:30
+
 comment_status: open
 post_name: webservice-caching
 status: publish

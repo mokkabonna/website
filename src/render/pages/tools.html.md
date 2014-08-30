@@ -2,12 +2,12 @@
 title: Tools
 layout: page
 pageOrder: 2
-link: http://martinhansen.no/tools/
+
 author: admin
 description: 
 post_id: 14
-created: 2007/02/20 19:41:10
-created_gmt: 2007/02/20 17:41:10
+
+
 comment_status: open
 post_name: tools
 status: publish

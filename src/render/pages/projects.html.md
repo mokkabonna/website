@@ -2,12 +2,12 @@
 title: Projects
 layout: page
 pageOrder: 2
-link: http://martinhansen.no/projects/
+
 author: admin
 description: 
 post_id: 191
-created: 2010/03/14 20:56:18
-created_gmt: 2010/03/14 18:56:18
+
+
 comment_status: open
 post_name: projects
 status: publish

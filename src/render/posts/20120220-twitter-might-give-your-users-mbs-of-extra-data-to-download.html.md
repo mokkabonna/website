@@ -1,11 +1,11 @@
 ---
 title: Twitter might give your users MB's of extra data to download
-link: http://martinhansen.no/2012/02/20/twitter-might-give-your-users-mbs-of-extra-data-to-download/
+
 author: admin
 description: 
 post_id: 315
 mtime: 2012/02/20 14:31:17
-created_gmt: 2012/02/20 12:31:17
+
 comment_status: open
 post_name: twitter-might-give-your-users-mbs-of-extra-data-to-download
 status: publish

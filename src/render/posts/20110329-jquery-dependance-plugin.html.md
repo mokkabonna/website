@@ -1,11 +1,11 @@
 ---
 title: jQuery checkbox/radiobutton dependence plugin
-link: http://martinhansen.no/2011/03/29/jquery-dependance-plugin/
+
 author: admin
 description: 
 post_id: 208
 mtime: 2011/03/29 15:44:57
-created_gmt: 2011/03/29 13:44:57
+
 comment_status: open
 post_name: jquery-dependance-plugin
 status: publish

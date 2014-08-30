@@ -1,11 +1,11 @@
 ---
 title: Harvest time tracking widget for Opera
-link: http://martinhansen.no/2010/03/14/harvest-widget-for-opera/
+
 author: admin
 description: 
 post_id: 188
 mtime: 2010/03/14 20:52:33
-created_gmt: 2010/03/14 18:52:33
+
 comment_status: open
 post_name: harvest-widget-for-opera
 status: publish

@@ -1,11 +1,11 @@
 ---
 title: Dual screen flash fullscreen fix
-link: http://martinhansen.no/2009/04/21/dual-monitor-flash-fullscreen-fix/
+
 author: admin
 description: 
 post_id: 52
 mtime: 2009/04/21 19:14:06
-created_gmt: 2009/04/21 17:14:06
+
 comment_status: open
 post_name: dual-monitor-flash-fullscreen-fix
 status: publish
