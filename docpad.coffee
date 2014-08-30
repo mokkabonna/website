@@ -12,16 +12,10 @@ docpadConfig =
     # Specify some site properties
     site:
       # The production url of our website
-      url: "http://website.com"
-
-      # Here are some old site urls that you would like to redirect from
-      oldUrls: [
-        'www.website.com',
-        'website.herokuapp.com'
-      ]
+      url: "http://martinhansen.com"
 
       # The default title of our website
-      title: "Your Website"
+      title: "Martin Hansen"
 
       # The website description (for SEO)
       description: """
@@ -34,13 +28,10 @@ docpadConfig =
         """
 
       # The website author's name
-      author: "Your Name"
+      author: "Martin Hansen"
 
       # The website author's email
-      email: "your@email.com"
-
-      # Your company's name
-      copyright: "© Your Company 2013"
+      email: "martin@martinhansen.no"
 
 
     # Helper Functions
