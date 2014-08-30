@@ -5,8 +5,7 @@ author: admin
 post_id: 315
 mtime: 2012/02/20 14:31:17
 
-
-post_name: twitter-might-give-your-users-mbs-of-extra-data-to-download
+slug: twitter-might-give-your-users-mbs-of-extra-data-to-download
 status: publish
 post_type: post
 layout: 'default'

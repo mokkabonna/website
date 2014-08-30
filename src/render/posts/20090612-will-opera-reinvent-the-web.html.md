@@ -5,8 +5,7 @@ author: admin
 post_id: 148
 mtime: 2009/06/12 14:47:33
 
-
-post_name: will-opera-reinvent-the-web
+slug: will-opera-reinvent-the-web
 status: publish
 post_type: post
 layout: 'default'

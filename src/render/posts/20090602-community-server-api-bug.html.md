@@ -5,8 +5,7 @@ author: admin
 post_id: 128
 mtime: 2009/06/02 18:57:31
 
-
-post_name: community-server-api-bug
+slug: community-server-api-bug
 status: publish
 post_type: post
 layout: 'default'

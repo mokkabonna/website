@@ -5,8 +5,7 @@ author: admin
 post_id: 167
 mtime: 2009/10/20 14:07:30
 
-
-post_name: iis-and-skype-trouble
+slug: iis-and-skype-trouble
 status: publish
 post_type: post
 layout: 'default'

@@ -5,8 +5,7 @@ author: admin
 post_id: 171
 mtime: 2009/10/22 00:41:22
 
-
-post_name: dragging-and-resizing-windows-easily
+slug: dragging-and-resizing-windows-easily
 status: publish
 post_type: post
 layout: 'default'

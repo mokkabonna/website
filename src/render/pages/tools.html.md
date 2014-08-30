@@ -7,8 +7,7 @@ author: admin
 post_id: 14
 
 
-
-post_name: tools
+slug: tools
 status: publish
 post_type: page
 ---

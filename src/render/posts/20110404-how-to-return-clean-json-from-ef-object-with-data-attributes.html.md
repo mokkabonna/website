@@ -5,8 +5,7 @@ author: admin
 post_id: 232
 mtime: 2011/04/04 18:25:16
 
-
-post_name: how-to-return-clean-json-from-ef-object-with-data-attributes
+slug: how-to-return-clean-json-from-ef-object-with-data-attributes
 status: publish
 post_type: post
 layout: 'default'

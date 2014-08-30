@@ -5,8 +5,7 @@ author: admin
 post_id: 329
 mtime: 2012/04/07 18:39:05
 
-
-post_name: a-model-for-knockout
+slug: a-model-for-knockout
 status: publish
 post_type: post
 layout: 'default'

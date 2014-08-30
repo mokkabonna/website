@@ -5,8 +5,7 @@ author: admin
 post_id: 354
 mtime: 2013/09/21 16:01:39
 
-
-post_name: durandal-and-requirejs
+slug: durandal-and-requirejs
 status: publish
 post_type: post
 layout: 'default'

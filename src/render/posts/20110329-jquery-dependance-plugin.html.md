@@ -5,8 +5,7 @@ author: admin
 post_id: 208
 mtime: 2011/03/29 15:44:57
 
-
-post_name: jquery-dependance-plugin
+slug: jquery-dependance-plugin
 status: publish
 post_type: post
 layout: 'default'

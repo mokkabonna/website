@@ -5,8 +5,7 @@ author: admin
 post_id: 163
 mtime: 2009/10/23 18:43:01
 
-
-post_name: howto-set-google-im-feeling-lucky-as-default-search
+slug: howto-set-google-im-feeling-lucky-as-default-search
 status: publish
 post_type: post
 layout: 'default'

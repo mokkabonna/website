@@ -5,8 +5,7 @@ author: admin
 post_id: 242
 mtime: 2011/04/14 12:33:07
 
-
-post_name: getting-the-bearingheading-betweet-2-coordinates
+slug: getting-the-bearingheading-betweet-2-coordinates
 status: publish
 post_type: post
 layout: 'default'

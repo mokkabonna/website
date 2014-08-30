@@ -5,8 +5,7 @@ author: admin
 post_id: 188
 mtime: 2010/03/14 20:52:33
 
-
-post_name: harvest-widget-for-opera
+slug: harvest-widget-for-opera
 status: publish
 post_type: post
 layout: 'default'

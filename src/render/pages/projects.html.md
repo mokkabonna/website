@@ -7,8 +7,7 @@ author: admin
 post_id: 191
 
 
-
-post_name: projects
+slug: projects
 status: publish
 post_type: page
 ---

@@ -5,8 +5,7 @@ author: admin
 post_id: 271
 mtime: 2011/10/05 16:31:39
 
-
-post_name: asus-u36sd-windows-experience-index-score
+slug: asus-u36sd-windows-experience-index-score
 status: publish
 post_type: post
 layout: 'default'

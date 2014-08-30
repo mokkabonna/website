@@ -5,8 +5,7 @@ author: admin
 post_id: 279
 date: 2012/02/19 22:17:23
 
-
-post_name: create-hierarchical-objects-from-flat-data
+slug: create-hierarchical-objects-from-flat-data
 status: publish
 post_type: post
 layout: 'default'

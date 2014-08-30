@@ -5,8 +5,7 @@ author: admin
 post_id: 52
 mtime: 2009/04/21 19:14:06
 
-
-post_name: dual-monitor-flash-fullscreen-fix
+slug: dual-monitor-flash-fullscreen-fix
 status: publish
 post_type: post
 layout: 'default'

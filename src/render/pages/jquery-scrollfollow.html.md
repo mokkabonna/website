@@ -8,8 +8,7 @@ author: admin
 post_id: 340
 
 
-
-post_name: jquery-scrollfollow
+slug: jquery-scrollfollow
 status: publish
 ---
 
