@@ -27,15 +27,18 @@ I have made a small jQuery plugin that enables you to have checkboxes and radiob
   * pens
 
 ```
- **Demo:**
+ 
+**Demo:**
 
-  * books
-  * fruits 
-	* apples
-	* citrus fruits 
-	  * lemons
-	  * oranges
-  * pens
+* books
+* fruits 
+* apples
+* citrus fruits 
+  * lemons
+  * oranges
+* pens
+
+
 Here is the code: 
 ```
   /* jQuery checkbox/radiobutton dependance plugin * By Martin Hansen http://martinhansen.no * MIT Licensed. */
