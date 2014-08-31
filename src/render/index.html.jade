@@ -4,7 +4,11 @@ title: 'Home'
 ---
 
 h1 Martin Hansen
-p I am a developer
+p.byline Frontend developer
+!= getTwitterFollowButton()
+|
+.clearfix!= getGithubFollowButton()
+
 
 nav.linklist
 	each doc in getCollection('posts').toJSON()

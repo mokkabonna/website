@@ -34,11 +34,10 @@ docpadConfig =
       email: "martin@martinhansen.no"
 
       services:
-        buttons: ['TwitterFollowButton']
+        socialButtons: ['twitterFollowButton']
         googleAnalytics: 'UA-1382477-1'
         githubFollowButton: 'mokkabonna'
         twitterFollowButton: 'mokkabonna'
-        twitterTweetButton: 'mokkabonna'
 
 
     # Helper Functions
