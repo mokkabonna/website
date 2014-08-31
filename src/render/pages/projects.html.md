@@ -2,14 +2,9 @@
 title: Projects
 layout: page
 pageOrder: 2
-
 author: admin
-
-
 slug: projects
 ---
-
-# Projects
 
 * [Opera icons](http://kde-look.org/content/show.php/Opera+icon?content=29424) for the KDE icon theme nouveXT. These makes opera fit in much better.
   * [Harvest widget for Opera](/2010/03/14/harvest-widget-for-opera/ ) Enables you to track time and do invoicing, my widget connects to their service (http://getharvest.com)

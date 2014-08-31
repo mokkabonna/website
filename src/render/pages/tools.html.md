@@ -2,15 +2,9 @@
 title: Tools
 layout: page
 pageOrder: 2
-
 author: admin
-
-
 slug: tools
 ---
-
-# Tools
-
 Here are some useful tools I like to recommend. 
 
   * [Sublime Text 2, a great text editor!](http://www.sublimetext.com/blog/) \- 
