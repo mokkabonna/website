@@ -5,10 +5,8 @@ author: admin
 mtime: 2012/02/19 22:17:23
 
 slug: create-hierarchical-objects-from-flat-data
-layout: 'default'
+layout: 'post'
 ---
-
-# Create hierarchical objects from flat data
 
 Typically when you have a menu or similar, you might have it organized as following, with several levels hierarchical: 
 	

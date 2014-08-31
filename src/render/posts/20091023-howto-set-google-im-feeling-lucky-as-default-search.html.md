@@ -5,10 +5,8 @@ author: admin
 mtime: 2009/10/23 18:43:01
 
 slug: howto-set-google-im-feeling-lucky-as-default-search
-layout: 'default'
+layout: 'post'
 ---
-
-# HowTo: Set google "I'm Feeling Lucky" as default search
 
 URL's suck. When I want to go to Google calendar I want to type just that, or even google cal. Instead of Google dot com slash calendar. When I want to see today's episode of Colbert report, I should be able to type that in the address bar even though the address is colbertnation dot com. Enter Google's "I'm Feeling Lucky" search. Below is a guide to set Google's "I feel lucky" as default search in various browsers: Opera: 
 

@@ -5,10 +5,8 @@ author: admin
 mtime: 2011/10/05 16:31:39
 
 slug: asus-u36sd-windows-experience-index-score
-layout: 'default'
+layout: 'post'
 ---
-
-# ASUS U36SD windows experience index score
 
 After getting my new laptop, an ASUS U36SD, weighting only 1,7 KG, replacing the HDD with an SSD and upgrading the RAM to 8 GB (I can't believe how cheap ram is these days.) I ran the windows experience index test. These are the results I came up with. ![](/images//experience.png) I think that is pretty good for a laptop of this size and price.
 

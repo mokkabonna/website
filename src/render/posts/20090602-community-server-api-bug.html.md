@@ -5,10 +5,8 @@ author: admin
 mtime: 2009/06/02 18:57:31
 
 slug: community-server-api-bug
-layout: 'default'
+layout: 'post'
 ---
-
-# Community server REST API cache bug
 
 I've been working with the community serverAPI lately and came across this bug: It seems when doing a request for users with search parameters it does not cache correctly on all input parameters.  Specifically the id parameter. I try doing the following request: `GET /api/membership.ashx/users/?id=2100,2200,2201` This gives me the user with id 2100, 2200 and 2201 But if you try something similar again before 30 sec (the time it cache the results), with different userids, then you get the same result as the first query returned: `GET /api/membership.ashx/users/?id=2101,3000,3001` returns the same So what is up with that? The bug is not in the client library (since I did this in fiddler), and neither the server side API component it seems. Using [reflector](http://www.red-gate.com/products/reflector/) I found that the  problem is in the generation of the cachekey in the UserQuery object in CS itself: 
 ```

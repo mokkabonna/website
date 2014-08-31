@@ -5,10 +5,8 @@ author: admin
 mtime: 2010/03/14 21:16:09
 
 slug: network-problems-with-dns-symptoms
-layout: 'default'
+layout: 'post'
 ---
-
-# Network problems with DNS symptoms
 
 If you are having what seems to be DNS problems in your network, but others seem to connect without problems it might not be DNS problems at all, but something to do with your MTU setting, read more [here](http://groups.google.com/group/blogger-help/web/how-to-check-the-mtu-setting-on-your-computer). This solved a problem I've had for a long time on a friends network.
 

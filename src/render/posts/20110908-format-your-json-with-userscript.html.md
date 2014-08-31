@@ -5,10 +5,8 @@ author: admin
 mtime: 2011/09/08 20:56:02
 
 slug: format-your-json-with-userscript
-layout: 'default'
+layout: 'post'
 ---
-
-# Format your json with userscript
 
 I have created a very small userscript for opera (might work ok with other browsers) that formats /indents/ beautifies the JSON data in a document if it's only JSON there. For opera to open the JSON by itself and this to work (the default is to present it as a download), you will have to enable that in opera. Go to preferences -> advanced -> downloads -> Add Mimetype: application/json Select open with opera That will result in your JSON looking like this in the browser: ![](/images//large.png) 
 ```

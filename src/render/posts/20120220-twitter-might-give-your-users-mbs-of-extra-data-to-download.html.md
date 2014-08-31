@@ -5,10 +5,8 @@ author: admin
 mtime: 2012/02/20 14:31:17
 
 slug: twitter-might-give-your-users-mbs-of-extra-data-to-download
-layout: 'default'
+layout: 'post'
 ---
-
-# Twitter might give your users MB's of extra data to download
 
 When someone uploads their profile picture to twitter, twitter has a limitation of 700 KB. Ok. Twitter then compresses the image to something smaller, like a 48x48 px image. The size can typically be a few KB's. Good! 
 

@@ -5,10 +5,8 @@ author: admin
 mtime: 2011/04/04 18:25:16
 
 slug: how-to-return-clean-json-from-ef-object-with-data-attributes
-layout: 'default'
+layout: 'post'
 ---
-
-# How to return clean JSON from EF object with data attributes
 
 Returning JSON is very simple in ASP.NET MVC: 
 ```

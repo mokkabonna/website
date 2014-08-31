@@ -5,10 +5,8 @@ author: admin
 mtime: 2013/09/21 16:01:39
 
 slug: durandal-and-requirejs
-layout: 'default'
+layout: 'post'
 ---
-
-# Durandal and requirejs
 
 I've had some problems building my durandal project with grunt-contrib-requirejs and using almond Apparently durandal relies on a custom almond that has the onResourceLoad function. Just wanted to post my r.js config here to help others: 
 ```

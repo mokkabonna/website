@@ -5,10 +5,8 @@ author: admin
 mtime: 2009/06/12 14:47:33
 
 slug: will-opera-reinvent-the-web
-layout: 'default'
+layout: 'post'
 ---
-
-# Will Opera reinvent the web?
 
 Recently Opera invited webdevelopers and journalists to a video conference next week, at the 16th of june, 9 AM CEDT. They also have set up this page <http://www.opera.com/freedom/> where they say they will reinvent the web. To be honest, even though I'm a Opera user myself, I do feel like they are setting us up for a disappointment. But that remains to be seen. They sure do use big words though. If you take a closer look at the source code for that page you can read a story where they are hinting to what this news is. Also they have a meta tag with keywords such as "new browser, beta". The other hints, the story, are inserted into the page as comments, they started out with just a few words, now as time goes on they add more and more to the story. I will post here on this site the story as they continue to add to it. This is what we have so far: 
 

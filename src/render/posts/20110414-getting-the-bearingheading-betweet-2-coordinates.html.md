@@ -5,10 +5,8 @@ author: admin
 mtime: 2011/04/14 12:33:07
 
 slug: getting-the-bearingheading-betweet-2-coordinates
-layout: 'default'
+layout: 'post'
 ---
-
-# Getting the bearing/heading betweet 2 coordinates
 
 Thanks to [rjsteward](http://stackoverflow.com/users/76639/rjsteward) with his [answer](http://stackoverflow.com/questions/1971585/mapping-math-and-javascript) over at stackoverflow.com I have now a simple function for getting the bearing between to coordinates: The function is meant to be used with google maps, so the parameters are google.maps.LatLng objects 
 ```

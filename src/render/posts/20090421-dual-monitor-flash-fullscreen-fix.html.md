@@ -5,10 +5,8 @@ author: admin
 mtime: 2009/04/21 19:14:06
 
 slug: dual-monitor-flash-fullscreen-fix
-layout: 'default'
+layout: 'post'
 ---
-
-# Dual screen flash fullscreen fix
 
 If you have 2 monitors connected to your PC you have probably tried to look at youtube, or any other flash based video site, in fullscreen on the one monitor and then do something else on the other monitor. If you try this then flash exits fullscreen. Bummer. But do not despair, here is a youtube video that shows you how to fix that. 
 

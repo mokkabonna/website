@@ -5,10 +5,8 @@ author: admin
 mtime: 2011/03/29 15:44:57
 
 slug: jquery-dependance-plugin
-layout: 'default'
+layout: 'post'
 ---
-
-# jQuery checkbox/radiobutton dependence plugin
 
 I have made a small jQuery plugin that enables you to have checkboxes and radiobuttons that depends on each other in a nested way. The usage is very simple, just take a collection of radios or checkboxes and define an element they depend on. If you check an element that depends on something, the parent will be checked as well. In the same way, if you uncheck a parent element that have children, then the children will be unchecked as well. The plugin is designed to also work with jQuery UI buttons 
 ```

@@ -5,10 +5,8 @@ author: admin
 mtime: 2012/04/07 18:39:05
 
 slug: a-model-for-knockout
-layout: 'default'
+layout: 'post'
 ---
-
-# A model for Knockout
 
 I have created a model for knockout inspired/based off of JavaScriptMVC's Model. Go to the github [project page](https://github.com/mokkabonna/knockout-model) for updated code and documentation 
 

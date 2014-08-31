@@ -5,10 +5,8 @@ author: admin
 mtime: 2011/06/13 16:01:55
 
 slug: text-selection-mode-off-in-opera
-layout: 'default'
+layout: 'post'
 ---
-
-# Text selection mode off in opera
 
 A nice feature in opera is to turn off text selection when dragging on the web page. For instance when using opera on an iPad over remote desktop to your pc. This allows you to drag the page as you would in the native browser on the iPad. 
 

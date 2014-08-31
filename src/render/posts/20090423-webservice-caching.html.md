@@ -5,10 +5,8 @@ author: admin
 mtime: 2009/04/23 14:15:30
 
 slug: webservice-caching
-layout: 'default'
+layout: 'post'
 ---
-
-# Responsive webservice caching using threads
 
 I worked on a project where I needed to have a user control that got data from a web service, this would slow down the site without proper caching. Usually when I get data from the database I do the caching every  5 minutes, and the person doing the request at that 5 min mark will get a small hit, but this is not a big hit so it's acceptable. 
 

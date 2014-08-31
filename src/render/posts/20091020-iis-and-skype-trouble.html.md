@@ -5,10 +5,8 @@ author: admin
 mtime: 2009/10/20 14:07:30
 
 slug: iis-and-skype-trouble
-layout: 'default'
+layout: 'post'
 ---
-
-# IIS and skype = trouble
 
 Do you have a problem starting a website on your developer machine but you get an error saying something like: 
 
