@@ -24,7 +24,7 @@ docpadConfig =
 
       # The website keywords (for SEO) separated by commas
       keywords: """
-        place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website
+        javascript, html5, css3, knockout, durandal, angular, browsers
         """
 
       # The website author's name
