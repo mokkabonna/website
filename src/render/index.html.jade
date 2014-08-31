@@ -9,10 +9,9 @@ p.byline Frontend developer
 | 
 .clearfix!= getGithubFollowButton()
 
-
 nav.linklist
-	each doc in getCollection('posts').toJSON()
-		li
-			h2
-				a(href=doc.url)= doc.title
+  each doc in getCollection('posts').toJSON()
+    li
+      h2
+        a(href=doc.url)= doc.title
 

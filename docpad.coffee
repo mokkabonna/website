@@ -64,6 +64,11 @@ docpadConfig =
       # Merge the document keywords with the site keywords
       @site.keywords.concat(@document.keywords or []).join(', ')
 
+  plugins:
+    feedr:
+      feeds:
+        githubRepos:
+          url: "https://api.github.com/users/mokkabonna/repos"
 
   # Collections
   # ===========
