@@ -12,14 +12,14 @@ docpadConfig =
     # Specify some site properties
     site:
       # The production url of our website
-      url: "http://martinhansen.com"
+      url: "http://www.martinhansen.no"
 
       # The default title of our website
       title: "Martin Hansen"
 
       # The website description (for SEO)
       description: """
-        When your website appears in search results in say Google, the text here will be shown underneath your website's title.
+        Developer blog
         """
 
       # The website keywords (for SEO) separated by commas
