@@ -4,8 +4,8 @@ layout: page
 pageOrder: 1
 ---
 
-nav.linklist
+ul.linklist
 	each doc in getCollection('posts').toJSON()
 		li
-			h2  
+			h2
 				a(href=doc.url)= doc.title
